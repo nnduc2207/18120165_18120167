@@ -1,0 +1,16 @@
+﻿  CBall.cpp
+d:\test\18120165_18120167\18120165_18120167\cball.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Compiling...
+  Source.cpp
+d:\test\18120165_18120167\18120165_18120167\cball.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\test\18120165_18120167\18120165_18120167\source.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\test\18120165_18120167\18120165_18120167\source.cpp(59): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\test\18120165_18120167\18120165_18120167\source.cpp(60): warning C4018: '<': signed/unsigned mismatch
+d:\test\18120165_18120167\18120165_18120167\source.cpp(106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\test\18120165_18120167\18120165_18120167\source.cpp(119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  cGameManager.cpp
+  18120165_18120167.vcxproj -> D:\TEST\18120165_18120167\Debug\18120165_18120167.exe
+  18120165_18120167.vcxproj -> D:\TEST\18120165_18120167\Debug\18120165_18120167.pdb (Full PDB)
