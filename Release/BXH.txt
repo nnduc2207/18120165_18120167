@@ -1,0 +1,20 @@
+144520
+Player BEST
+101650
+Computer 5
+92898
+Computer 3
+91998
+Computer 4
+75133
+Player 4
+53873
+Computer 2
+52433
+Computer 1
+33161
+Player 1
+27137
+Player 2
+27013
+Player 3
